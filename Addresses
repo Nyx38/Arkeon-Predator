@@ -1,5 +1,5 @@
 ## Prerequisites
-1. **Dataset:** This project requires a list of Bitcoin addresses. Please download the dataset from [Kaggle](https://www.kaggle.com/datasets/alizahidraja/bitcoin-addresses-18-3-2024/data), rename the file to `temiz_adresler`, and place it in the project root.
+1. **Dataset:** This project requires a list of Bitcoin addresses. Please download the dataset from [Kaggle](https://www.kaggle.com/datasets/alizahidraja/bitcoin-addresses-18-3-2024), rename the file to `temiz_adresler`, and place it in the project root.
 2. **Dependencies:** Install the required Python packages:
    ```bash
    pip install -r requirements.txt
